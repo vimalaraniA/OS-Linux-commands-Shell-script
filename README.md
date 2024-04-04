@@ -1,5 +1,5 @@
-## NAME:ABDULLAH R
-## REG NO:212223230004
+## NAME:VIMALA RANI A
+## REG NO:212223040240
 
 # OS-Linux-commands-Shell-scripting
 Operating systems Lab exercise
